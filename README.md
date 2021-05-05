@@ -4,6 +4,6 @@ The Problem and the Goal:
 - should utilize at least three components with singular responsibility
 - functional 'break' and 'focus' timers, progress bar should update as timer runs, display should reflect current state of timer session
 
-
+[Try out the timer for yourself!](https://project-pomodoro-timer-qualified-1-beta.vercel.app "Link to Pomodoro Timer")
 
 
